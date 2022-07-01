@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Vacancies">e9537a6fdb989510a3ed1c970596198c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Vacancy APP</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_431220_follow_0_follow_up</name>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_431220_follow_0.fu_job_vacancies_admin,x_431220_follow_0.fu_job_vacancies_file_handler</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 12:13:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0523b66fdb989510a3ed1c9705961989</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Follow up</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_app_module_0523b66fdb989510a3ed1c9705961989</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:37:22</sys_updated_on>
+        <timeline_page/>
+        <title>Follow up</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>9355b5a7db6e9f0052e3f70fbf96197f</instance_id>
+        <instance_name>dev61130</instance_name>
+        <name>sys_app_module_0523b66fdb989510a3ed1c9705961989</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vacancies">e9537a6fdb989510a3ed1c970596198c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Vacancy APP</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_431220_follow_0_follow_up</name><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_431220_follow_0.fu_job_vacancies_admin,x_431220_follow_0.fu_job_vacancies_file_handler</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-01 12:13:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0523b66fdb989510a3ed1c9705961989</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Follow up</sys_name><sys_overrides/><sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package><sys_policy/><sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope><sys_update_name>sys_app_module_0523b66fdb989510a3ed1c9705961989</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-01 13:37:22</sys_updated_on><timeline_page/><title>Follow up</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>170636889</payload_hash>
+        <record_name>Follow up</record_name>
+        <reverted_from/>
+        <source>f436e26fdb589510a3ed1c9705961966</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:37:22</sys_created_on>
+        <sys_id>9dd68b63db1c9510a3ed1c970596195d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181b9fafb200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:37:22</sys_updated_on>
+        <type>Module</type>
+        <update_guid>95d68b63591c9510dbbe9279075f565d</update_guid>
+        <update_guid_history>95d68b63591c9510dbbe9279075f565d:170636889,45b3be6f9e9895102744c8a101db1962:-1324554720</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Follow up">6dc70fa3db1c9510a3ed1c9705961913</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:41:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>12c77048420142808ebb0fb475f08400</sys_id>
+        <sys_metadata>0523b66fdb989510a3ed1c9705961989</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Follow up</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_app_module_0523b66fdb989510a3ed1c9705961989</sys_update_name>
+        <sys_update_version display_value="sys_app_module_0523b66fdb989510a3ed1c9705961989">9dd68b63db1c9510a3ed1c970596195d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:41:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

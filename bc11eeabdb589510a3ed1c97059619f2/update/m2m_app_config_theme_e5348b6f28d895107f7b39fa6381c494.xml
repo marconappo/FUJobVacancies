@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e5348b6f28d895107f7b39fa6381c494</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>m2m_app_config_theme_e5348b6f28d895107f7b39fa6381c494</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:56</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">65348b6fe9d895106cfaf1ffa6553c94</theme>
+        <ux_app_configuration display_value="Follow up Job Vacancies Config">a1348b6f35d895107a8d6e2c80868694</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

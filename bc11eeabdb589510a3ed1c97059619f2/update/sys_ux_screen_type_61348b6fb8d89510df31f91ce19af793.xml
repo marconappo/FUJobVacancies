@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Dashboard</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:57</sys_created_on>
+        <sys_id>61348b6fb8d89510df31f91ce19af793</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_screen_type_61348b6fb8d89510df31f91ce19af793</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:57</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=61348b6fb8d89510df31f91ce19af793"/>
+</record_update>

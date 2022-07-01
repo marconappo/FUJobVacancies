@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Follow up" max_length="40" name="x_431220_follow_0_follow_up" text_index="true" type="collection">
+        <element label="BACK UP" max_length="32" name="back_up" reference="sys_user" type="reference"/>
+        <element label="BUDGETARY COVER?" max_length="40" name="budgetary_cover" type="boolean"/>
+        <element default="BRU" label="City" max_length="10" name="city" type="string"/>
+        <element label="DG/OFFICE" max_length="40" name="dg_office" type="string"/>
+        <element label="ENTITY / UNIT" max_length="40" name="entity_unit" type="string"/>
+        <element label="FILE HANDLER" max_length="32" name="file_handler" reference="sys_user" type="reference"/>
+        <element label="GRADE (MAX)" max_length="10" name="grade_max" type="string"/>
+        <element label="GRADE (MIN)" max_length="10" name="grade_min" type="string"/>
+        <element label="HoE Email" max_length="40" name="hoe_email" type="string"/>
+        <element label="JOB DESCRIPTION (SYSPER)" max_length="40" name="job_description_sysper" type="string"/>
+        <element label="JOB TITLE FUNCTION" max_length="40" name="job_title_function" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="POST FUNCTION GROUP" max_length="32" name="post_function_group" reference="x_431220_follow_0_function_group" type="reference"/>
+        <element label="POST TYPE" max_length="32" name="post_type" reference="x_431220_follow_0_post_type" type="reference"/>
+        <element label="PREVIOUS JH" max_length="40" name="previous_jh" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PUBLICATION NUMBER" max_length="40" name="publication_number" type="string"/>
+        <element label="STATUS" max_length="40" name="status" type="string"/>
+        <element label="STATUS DETAILS" max_length="32" name="status_details" reference="x_431220_follow_0_status_detail" type="reference"/>
+        <element label="SYSPER POST N." max_length="40" name="sysper_post_n" type="string"/>
+        <index name="index">
+            <element name="post_type"/>
+        </index>
+        <index name="index2">
+            <element name="post_function_group"/>
+        </index>
+        <index name="index3">
+            <element name="file_handler"/>
+        </index>
+        <index name="index4">
+            <element name="status_details"/>
+        </index>
+        <index name="index5">
+            <element name="back_up"/>
+        </index>
+    </element>
+</database>

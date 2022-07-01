@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="budgetary_cover" label="BUDGETARY COVER?" language="en" table="x_431220_follow_0_follow_up">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>budgetary_cover</element>
+            <help/>
+            <hint/>
+            <label>BUDGETARY COVER?</label>
+            <language>en</language>
+            <name>x_431220_follow_0_follow_up</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-01 12:08:42</sys_created_on>
+            <sys_id>a2823a2fdb989510a3ed1c9705961928</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>BUDGETARY COVER?</sys_name>
+            <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+            <sys_update_name>sys_documentation_x_431220_follow_0_follow_up_budgetary_cover_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-01 12:08:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

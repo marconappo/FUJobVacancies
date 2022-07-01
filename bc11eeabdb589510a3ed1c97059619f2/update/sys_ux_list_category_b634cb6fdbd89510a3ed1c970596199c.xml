@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Follow up Job Vacancies_menu_config">2234cb6fdbd89510a3ed1c9705961968</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:26:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b634cb6fdbd89510a3ed1c970596199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status Detail</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_list_category_b634cb6fdbd89510a3ed1c970596199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:26:00</sys_updated_on>
+        <title>Status Detail</title>
+    </sys_ux_list_category>
+</record_update>

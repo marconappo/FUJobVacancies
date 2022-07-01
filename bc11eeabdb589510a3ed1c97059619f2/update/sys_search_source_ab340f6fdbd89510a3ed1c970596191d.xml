@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_431220_follow_0_follow_up_temp_table">active=true</condition>
+        <group/>
+        <name>Follow up Job Vacancies - x_431220_follow_0_follow</name>
+        <roles/>
+        <source_table>x_431220_follow_0_follow_up_temp_table</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:26:03</sys_created_on>
+        <sys_id>ab340f6fdbd89510a3ed1c970596191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Follow up Job Vacancies - x_431220_follow_0_follow</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_search_source_ab340f6fdbd89510a3ed1c970596191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:26:03</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=ab340f6fdbd89510a3ed1c970596191d"/>
+</record_update>
