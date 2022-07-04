@@ -1,18 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Publication" section_id="244ac367db1c9510a3ed1c9705961909" sys_domain="global" table="x_431220_follow_0_follow_up" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>publication_request</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-07-01 13:52:21</sys_created_on>
-            <sys_id>f44ac367db1c9510a3ed1c9705961943</sys_id>
+            <sys_created_on>2022-07-01 15:56:13</sys_created_on>
+            <sys_id>57966fa3db9c9510a3ed1c9705961982</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Publication" display_value="Publication" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">244ac367db1c9510a3ed1c9705961909</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-01 13:52:21</sys_updated_on>
+            <sys_updated_on>2022-07-01 15:56:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>publication_number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-01 15:56:13</sys_created_on>
+            <sys_id>d7966fa3db9c9510a3ed1c9705961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Publication" display_value="Publication" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">244ac367db1c9510a3ed1c9705961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-01 15:56:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-01 15:56:13</sys_created_on>
+            <sys_id>5b966fa3db9c9510a3ed1c9705961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Publication" display_value="Publication" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">244ac367db1c9510a3ed1c9705961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-01 15:56:13</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vacant_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-01 15:56:13</sys_created_on>
+            <sys_id>db966fa3db9c9510a3ed1c9705961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Publication" display_value="Publication" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">244ac367db1c9510a3ed1c9705961909</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-01 15:56:13</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Publication</caption>

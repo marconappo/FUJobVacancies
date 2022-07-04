@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Vacancies">e9537a6fdb989510a3ed1c970596198c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DG_OFFICEs</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_431220_follow_0_dg_office</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_431220_follow_0.dg_office_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 15:35:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e6d1636fdb5c9510a3ed1c97059619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DG_OFFICEs</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_app_module_e6d1636fdb5c9510a3ed1c97059619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 15:35:26</sys_updated_on>
+        <timeline_page/>
+        <title>DG_OFFICEs</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>9355b5a7db6e9f0052e3f70fbf96197f</instance_id>
+        <instance_name>dev61130</instance_name>
+        <name>sys_app_module_e6d1636fdb5c9510a3ed1c97059619e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vacancies">e9537a6fdb989510a3ed1c970596198c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>DG_OFFICEs</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_431220_follow_0_dg_office</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_431220_follow_0.dg_office_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-01 15:35:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e6d1636fdb5c9510a3ed1c97059619e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DG_OFFICEs</sys_name><sys_overrides/><sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package><sys_policy/><sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope><sys_update_name>sys_app_module_e6d1636fdb5c9510a3ed1c97059619e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-01 15:35:26</sys_updated_on><timeline_page/><title>DG_OFFICEs</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1875218594</payload_hash>
+        <record_name>DG_OFFICEs</record_name>
+        <reverted_from/>
+        <source>f436e26fdb589510a3ed1c9705961966</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 15:35:26</sys_created_on>
+        <sys_id>f6d1636fdb5c9510a3ed1c97059619e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181ba6712c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 15:35:26</sys_updated_on>
+        <type>Module</type>
+        <update_guid>32d1636fba5c9510a93cb8b6431dbfe4</update_guid>
+        <update_guid_history>32d1636fba5c9510a93cb8b6431dbfe4:1875218594</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DG_OFFICEs">8c322b6fdb5c9510a3ed1c9705961909</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 15:36:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2199729353f14f609664601ce973fdb1</sys_id>
+        <sys_metadata>e6d1636fdb5c9510a3ed1c97059619e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DG_OFFICEs</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_app_module_e6d1636fdb5c9510a3ed1c97059619e2</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e6d1636fdb5c9510a3ed1c97059619e2">f6d1636fdb5c9510a3ed1c97059619e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 15:36:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
