@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="no_of_interviewed_candidates" label="NO. of INTERVIEWED CANDIDATES" language="en" table="x_431220_follow_0_follow_up">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>no_of_interviewed_candidates</element>
+            <help/>
+            <hint/>
+            <label>NO. of INTERVIEWED CANDIDATES</label>
+            <language>en</language>
+            <name>x_431220_follow_0_follow_up</name>
+            <plural>NO. of INTERVIEWED CANDIDATESs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-13 09:32:25</sys_created_on>
+            <sys_id>dad1482b97a01110739330d3f153af6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NO. of INTERVIEWED CANDIDATES</sys_name>
+            <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+            <sys_update_name>sys_documentation_x_431220_follow_0_follow_up_no_of_interviewed_candidates_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-13 09:32:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

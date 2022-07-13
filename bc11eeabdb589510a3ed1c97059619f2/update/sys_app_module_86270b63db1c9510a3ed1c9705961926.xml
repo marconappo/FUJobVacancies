@@ -17,24 +17,24 @@
         <override_menu_roles>false</override_menu_roles>
         <query>sysparm_query=GROUPBYpost_function_group</query>
         <report/>
-        <roles/>
+        <roles>x_431220_follow_0.fu_job_vacancies_file_handler</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-01 13:39:02</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>86270b63db1c9510a3ed1c9705961926</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>By function group</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>by function group</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
         <sys_update_name>sys_app_module_86270b63db1c9510a3ed1c9705961926</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-01 14:31:21</sys_updated_on>
+        <sys_updated_on>2022-07-13 09:46:42</sys_updated_on>
         <timeline_page/>
-        <title>By function group</title>
+        <title>by function group</title>
         <uncancelable>false</uncancelable>
         <view_name>default</view_name>
         <window_name/>

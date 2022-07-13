@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" label="Follow up" max_length="40" name="x_431220_follow_0_follow_up" sizeclass="101" text_index="true" type="collection">
-        <element label="Additional comments" max_length="4000" name="additional_comments" type="journal_input"/>
         <element label="BACK UP" max_length="32" name="back_up" reference="sys_user" reference_qual="emailLIKEeuropa^EQ" reference_qual_condition="emailLIKEeuropa^EQ" type="reference"/>
         <element label="BUDGETARY COVER?" max_length="40" name="budgetary_cover" type="boolean"/>
         <element default="BRU" label="City" max_length="10" name="city" type="string"/>
+        <element label="Additional comments" max_length="4000" name="comments" type="journal_input"/>
         <element label="DG/OFFICE" max_length="40" name="dg_office" type="string"/>
         <element label="ENTITY / UNIT" max_length="40" name="entity_unit" type="string"/>
         <element label="FILE HANDLER" max_length="32" name="file_handler" reference="sys_user" reference_qual="emailLIKEeuropa^EQ" reference_qual_condition="emailLIKEeuropa^EQ" type="reference"/>
@@ -12,19 +12,36 @@
         <element label="HoE Email" max_length="40" name="hoe_email" type="string"/>
         <element label="JOB DESCRIPTION (SYSPER)" max_length="40" name="job_description_sysper" type="string"/>
         <element label="JOB TITLE FUNCTION" max_length="40" name="job_title_function" type="string"/>
+        <element label="NAME(S) of PANEL MEMBER(S)" max_length="50" name="name_s_of_panel_member_s" type="string"/>
+        <element choice="3" default="3" label="NO. of ELIGIBLE CANDIDATES" max_length="40" name="no_of_eligible_candidates" type="integer">
+            <choice/>
+        </element>
+        <element label="NO. of INTERVIEWED CANDIDATES" max_length="40" name="no_of_interviewed_candidates" type="integer"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Open To (Vacancy Notice)" max_length="40" name="open_to_vacancy_notice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="other Institutions" sequence="1" value="other Institutions"/>
+                <element inactive_on_update="false" label="EPSO list" sequence="2" value="EPSO list"/>
+            </choice>
+        </element>
+        <element label="PANEL DATE" max_length="40" name="panel_date" type="glide_date"/>
         <element label="POST FUNCTION GROUP" max_length="32" name="post_function_group" reference="x_431220_follow_0_function_group" type="reference"/>
         <element label="POST TYPE" max_length="32" name="post_type" reference="x_431220_follow_0_post_type" type="reference"/>
         <element label="PREVIOUS JH" max_length="40" name="previous_jh" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="PUBLICATION NUMBER" max_length="40" name="publication_number" type="string"/>
         <element label="PUBLICATION REQUEST" max_length="40" name="publication_request" type="glide_date"/>
+        <element label="QUOTA REQUESTED" max_length="10" name="quota_requested" type="string"/>
+        <element label="STARTING DATE (confirmed)" max_length="40" name="starting_date_confirmed" type="glide_date"/>
+        <element label="STARTING DATE (proposed)" max_length="40" name="starting_date_proposed" type="glide_date"/>
         <element label="STATUS" max_length="40" name="status" type="string"/>
         <element label="STATUS DETAILS" max_length="32" name="status_details" reference="x_431220_follow_0_status_detail" type="reference"/>
         <element label="SYSPER POST N." max_length="40" name="sysper_post_n" type="string"/>
+        <element label="TRANSFER REQUEST DATE" max_length="40" name="transfer_request_date" type="glide_date"/>
+        <element label="TYPE of PROCEDURE" max_length="10" name="type_of_procedure" type="string"/>
         <element label="VACANT ON" max_length="40" name="vacant_on" type="glide_date"/>
         <element label="Watch list" max_length="4000" name="watch_list" reference="sys_user" type="glide_list"/>
         <element label="Work Notes" max_length="4000" name="work_notes" type="journal_input"/>
-        <element label="Work Note List" max_length="4000" name="work_note_list" reference="sys_user" type="glide_list"/>
+        <element label="Work Note List" max_length="4000" name="work_note_list" reference="sys_user" reference_qual="emailLIKEeuropa^EQ" reference_qual_condition="emailLIKEeuropa^EQ" type="glide_list"/>
         <index name="index">
             <element name="post_type"/>
         </index>

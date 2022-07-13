@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="Follow up Job Vacancies">61348b6f3cd895102f96575c4ab11494</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:57</sys_created_on>
+        <sys_id>e5348b6faed895107cc89102f04dd078</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_e5348b6faed895107cc89102f04dd078</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:57</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_ux_registry_m2m_category_e5348b6faed895107cc89102f04dd078</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="Follow up Job Vacancies">61348b6f3cd895102f96575c4ab11494</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:57</sys_created_on>
+        <sys_id>e5348b6faed895107cc89102f04dd078</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_e5348b6faed895107cc89102f04dd078</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:57</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+</record_update>]]></payload>
+        <payload_hash>-667995177</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b914275797201110739330d3f153af3d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:23:02</sys_created_on>
+        <sys_id>0b34a79797201110739330d3f153af25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f670978a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:23:02</sys_updated_on>
+        <type>UX Application Category M2M</type>
+        <update_guid>c734a79786201110ee941ffd94429925</update_guid>
+        <update_guid_history>c734a79786201110ee941ffd94429925:-667995177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 09:55:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>3ebb553d8c55478499ee0ead6cfa6e04</sys_id>
+        <sys_metadata>e5348b6faed895107cc89102f04dd078</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_e5348b6faed895107cc89102f04dd078</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_e5348b6faed895107cc89102f04dd078">0b34a79797201110739330d3f153af25</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 09:55:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

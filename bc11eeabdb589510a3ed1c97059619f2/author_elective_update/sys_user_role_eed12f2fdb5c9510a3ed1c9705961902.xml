@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_431220_follow_0.dg_office_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>dg_office_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 15:35:25</sys_created_on>
+        <sys_id>eed12f2fdb5c9510a3ed1c9705961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_431220_follow_0.dg_office_user</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_user_role_eed12f2fdb5c9510a3ed1c9705961902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 15:35:25</sys_updated_on>
+    </sys_user_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_user_role_eed12f2fdb5c9510a3ed1c9705961902</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_431220_follow_0.dg_office_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>dg_office_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 15:35:25</sys_created_on>
+        <sys_id>eed12f2fdb5c9510a3ed1c9705961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_431220_follow_0.dg_office_user</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_user_role_eed12f2fdb5c9510a3ed1c9705961902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 15:35:25</sys_updated_on>
+    </sys_user_role>
+</record_update>]]></payload>
+        <payload_hash>1538269494</payload_hash>
+        <record_name>x_431220_follow_0.dg_office_user</record_name>
+        <reverted_from/>
+        <source>b914275797201110739330d3f153af3d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:23:00</sys_created_on>
+        <sys_id>6e34679797201110739330d3f153af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f6708df20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:23:00</sys_updated_on>
+        <type>Role</type>
+        <update_guid>2e346797922011107db3cfff01e8b501</update_guid>
+        <update_guid_history>2e346797922011107db3cfff01e8b501:1538269494</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_431220_follow_0.dg_office_user">7d58282397641110739330d3f153afe3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 12:20:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>2bb265f6adde46829447b10e46f33981</sys_id>
+        <sys_metadata>eed12f2fdb5c9510a3ed1c9705961902</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_431220_follow_0.dg_office_user</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_user_role_eed12f2fdb5c9510a3ed1c9705961902</sys_update_name>
+        <sys_update_version display_value="sys_user_role_eed12f2fdb5c9510a3ed1c9705961902">6e34679797201110739330d3f153af01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 12:20:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

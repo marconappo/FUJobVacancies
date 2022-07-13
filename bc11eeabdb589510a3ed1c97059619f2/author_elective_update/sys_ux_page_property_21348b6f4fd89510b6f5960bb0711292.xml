@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="Follow up Job Vacancies">61348b6f3cd895102f96575c4ab11494</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>21348b6f4fd89510b6f5960bb0711292</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_page_property_21348b6f4fd89510b6f5960bb0711292</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:57</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_431220_follow_0.61348b6f3cd895102f96575c4ab11494.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=21348b6f4fd89510b6f5960bb0711292"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_ux_page_property_21348b6f4fd89510b6f5960bb0711292</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="Follow up Job Vacancies">61348b6f3cd895102f96575c4ab11494</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>21348b6f4fd89510b6f5960bb0711292</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_page_property_21348b6f4fd89510b6f5960bb0711292</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:57</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_431220_follow_0.61348b6f3cd895102f96575c4ab11494.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=21348b6f4fd89510b6f5960bb0711292"/>
+</record_update>]]></payload>
+        <payload_hash>-1466634040</payload_hash>
+        <record_name>chrome_notification_uiRoute</record_name>
+        <reverted_from/>
+        <source>b914275797201110739330d3f153af3d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:23:02</sys_created_on>
+        <sys_id>cf34679797201110739330d3f153afe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f67095690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:23:02</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>8f3467976f201110aa9cf0b371a0f5e1</update_guid>
+        <update_guid_history>8f3467976f201110aa9cf0b371a0f5e1:-1466634040</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 09:55:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>08b4b5b218d747d480d5b260f4173710</sys_id>
+        <sys_metadata>21348b6f4fd89510b6f5960bb0711292</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_21348b6f4fd89510b6f5960bb0711292</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_21348b6f4fd89510b6f5960bb0711292">cf34679797201110739330d3f153afe1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 09:55:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

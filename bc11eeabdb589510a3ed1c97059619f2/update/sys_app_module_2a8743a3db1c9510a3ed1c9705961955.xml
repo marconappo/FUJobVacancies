@@ -13,28 +13,28 @@
         <mobile_title>By function group</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_431220_follow_0_follow_up</name>
-        <order>6</order>
+        <order>4</order>
         <override_menu_roles>false</override_menu_roles>
         <query>GROUPBYstatus_details</query>
         <report/>
-        <roles/>
+        <roles>x_431220_follow_0.fu_job_vacancies_business_correspondent</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-07-01 13:40:27</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2a8743a3db1c9510a3ed1c9705961955</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Business Correspondents</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>by status detail</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
         <sys_update_name>sys_app_module_2a8743a3db1c9510a3ed1c9705961955</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-01 14:34:07</sys_updated_on>
+        <sys_updated_on>2022-07-13 10:00:16</sys_updated_on>
         <timeline_page/>
-        <title>Business Correspondents</title>
+        <title>by status detail</title>
         <uncancelable>false</uncancelable>
         <view_name>BusinessCorrespondent</view_name>
         <window_name/>

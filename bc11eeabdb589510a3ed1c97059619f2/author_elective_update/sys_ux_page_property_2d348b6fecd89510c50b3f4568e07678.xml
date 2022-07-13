@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="Follow up Job Vacancies">61348b6f3cd895102f96575c4ab11494</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2d348b6fecd89510c50b3f4568e07678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_page_property_2d348b6fecd89510c50b3f4568e07678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:56</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_431220_follow_0.61348b6f3cd895102f96575c4ab11494.root.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=2d348b6fecd89510c50b3f4568e07678"/>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_ux_page_property_2d348b6fecd89510c50b3f4568e07678</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="Follow up Job Vacancies">61348b6f3cd895102f96575c4ab11494</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2d348b6fecd89510c50b3f4568e07678</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_page_property_2d348b6fecd89510c50b3f4568e07678</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:56</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_431220_follow_0.61348b6f3cd895102f96575c4ab11494.root.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=2d348b6fecd89510c50b3f4568e07678"/>
+</record_update>]]></payload>
+        <payload_hash>1293402155</payload_hash>
+        <record_name>actionConfigId</record_name>
+        <reverted_from/>
+        <source>b914275797201110739330d3f153af3d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:23:02</sys_created_on>
+        <sys_id>c734679797201110739330d3f153afe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f67095960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:23:02</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>8734679749201110460721a72de8a5e5</update_guid>
+        <update_guid_history>8734679749201110460721a72de8a5e5:1293402155</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 09:55:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2f1886c15ca9405d90177bb71378b9c9</sys_id>
+        <sys_metadata>2d348b6fecd89510c50b3f4568e07678</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_2d348b6fecd89510c50b3f4568e07678</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_2d348b6fecd89510c50b3f4568e07678">c734679797201110739330d3f153afe5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 09:55:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

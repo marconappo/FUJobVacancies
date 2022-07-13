@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 15:35:26</sys_created_on>
+        <sys_id>bad1636fdb5c9510a3ed1c97059619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_431220_follow_0_dg_office.x_431220_follow_0.dg_office_user</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_security_acl display_value="x_431220_follow_0_dg_office">36d1636fdb5c9510a3ed1c97059619f8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bad1636fdb5c9510a3ed1c97059619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 15:35:26</sys_updated_on>
+        <sys_user_role display_value="x_431220_follow_0.dg_office_user" name="x_431220_follow_0.dg_office_user">eed12f2fdb5c9510a3ed1c9705961902</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_security_acl_role_bad1636fdb5c9510a3ed1c97059619fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 15:35:26</sys_created_on>
+        <sys_id>bad1636fdb5c9510a3ed1c97059619fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_431220_follow_0_dg_office.x_431220_follow_0.dg_office_user</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_security_acl display_value="x_431220_follow_0_dg_office">36d1636fdb5c9510a3ed1c97059619f8</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bad1636fdb5c9510a3ed1c97059619fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 15:35:26</sys_updated_on>
+        <sys_user_role display_value="x_431220_follow_0.dg_office_user" name="x_431220_follow_0.dg_office_user">eed12f2fdb5c9510a3ed1c9705961902</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>-726006041</payload_hash>
+        <record_name>x_431220_follow_0_dg_office.x_431220_follow_0.dg_office_user</record_name>
+        <reverted_from/>
+        <source>b914275797201110739330d3f153af3d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:22:56</sys_created_on>
+        <sys_id>e934e39797201110739330d3f153af7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f6707ffe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:22:56</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a934e397ec20111024939e92f2323f7e</update_guid>
+        <update_guid_history>a934e397ec20111024939e92f2323f7e:-726006041</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_431220_follow_0_dg_office.x_431220_follow_0.dg_office_user">7958282397641110739330d3f153afda</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 12:20:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1f3eb6ad0783420ebbe381b46ea73704</sys_id>
+        <sys_metadata>bad1636fdb5c9510a3ed1c97059619fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_431220_follow_0_dg_office.x_431220_follow_0.dg_office_user</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent display_value="x_431220_follow_0_dg_office">36d1636fdb5c9510a3ed1c97059619f8</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_bad1636fdb5c9510a3ed1c97059619fb</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_bad1636fdb5c9510a3ed1c97059619fb">e934e39797201110739330d3f153af7e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 12:20:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

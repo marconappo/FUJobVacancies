@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>a1348b6f35d895107a8d6e2c80868694</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>follow-up-job-vacancies</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:56</sys_created_on>
+        <sys_id>61348b6f3cd895102f96575c4ab11494</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Follow up Job Vacancies</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_page_registry_61348b6f3cd895102f96575c4ab11494</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:56</sys_updated_on>
+        <title>Follow up Job Vacancies</title>
+    </sys_ux_page_registry>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_ux_page_registry_61348b6f3cd895102f96575c4ab11494</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>a1348b6f35d895107a8d6e2c80868694</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>follow-up-job-vacancies</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 13:25:56</sys_created_on>
+        <sys_id>61348b6f3cd895102f96575c4ab11494</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Follow up Job Vacancies</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_ux_page_registry_61348b6f3cd895102f96575c4ab11494</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 13:25:56</sys_updated_on>
+        <title>Follow up Job Vacancies</title>
+    </sys_ux_page_registry>
+</record_update>]]></payload>
+        <payload_hash>-1828465286</payload_hash>
+        <record_name>Follow up Job Vacancies</record_name>
+        <reverted_from/>
+        <source>b914275797201110739330d3f153af3d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:23:02</sys_created_on>
+        <sys_id>c334a79797201110739330d3f153af22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f67097620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:23:02</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>8334a79782201110b1fdc36b23976d22</update_guid>
+        <update_guid_history>8334a79782201110b1fdc36b23976d22:-1828465286</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 09:55:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>2c68aa3421c542cfbbe7480eb0cf1239</sys_id>
+        <sys_metadata>61348b6f3cd895102f96575c4ab11494</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Follow up Job Vacancies</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_61348b6f3cd895102f96575c4ab11494</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_61348b6f3cd895102f96575c4ab11494">c334a79797201110739330d3f153af22</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 09:55:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

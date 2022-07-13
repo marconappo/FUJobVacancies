@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="u_imp_tmpl_sys_user">b2205fabdb1c9510a3ed1c97059619bd</map>
+        <reference_value_field/>
+        <source_field>u_last_name</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>u_imp_tmpl_sys_user</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-01 14:18:10</sys_created_on>
+        <sys_id>872093ebdb1c9510a3ed1c9705961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_last_name</sys_name>
+        <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_transform_entry_872093ebdb1c9510a3ed1c9705961994</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-01 14:18:10</sys_updated_on>
+        <target_field>last_name</target_field>
+        <target_table>sys_user</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_transform_entry_872093ebdb1c9510a3ed1c9705961994</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;
+    &lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;
+        &lt;choice_action&gt;create&lt;/choice_action&gt;
+        &lt;coalesce&gt;false&lt;/coalesce&gt;
+        &lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;
+        &lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;
+        &lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;
+        &lt;map display_value="u_imp_tmpl_sys_user"&gt;b2205fabdb1c9510a3ed1c97059619bd&lt;/map&gt;
+        &lt;reference_value_field/&gt;
+        &lt;source_field&gt;u_last_name&lt;/source_field&gt;
+        &lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;
+        &lt;source_table&gt;u_imp_tmpl_sys_user&lt;/source_table&gt;
+        &lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-07-01 14:18:10&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;872093ebdb1c9510a3ed1c9705961994&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;
+        &lt;sys_name&gt;u_last_name&lt;/sys_name&gt;
+        &lt;sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0"&gt;bc11eeabdb589510a3ed1c97059619f2&lt;/sys_package&gt;
+        &lt;sys_policy/&gt;
+        &lt;sys_scope display_value="Follow up Job Vacancies"&gt;bc11eeabdb589510a3ed1c97059619f2&lt;/sys_scope&gt;
+        &lt;sys_update_name&gt;sys_transform_entry_872093ebdb1c9510a3ed1c9705961994&lt;/sys_update_name&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-07-01 14:18:10&lt;/sys_updated_on&gt;
+        &lt;target_field&gt;last_name&lt;/target_field&gt;
+        &lt;target_table&gt;sys_user&lt;/target_table&gt;
+        &lt;use_source_script&gt;false&lt;/use_source_script&gt;
+    &lt;/sys_transform_entry&gt;
+&lt;/record_update&gt;</payload>
+        <payload_hash>-765392025</payload_hash>
+        <record_name>u_last_name</record_name>
+        <reverted_from/>
+        <source>b914275797201110739330d3f153af3d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:22:57</sys_created_on>
+        <sys_id>7934e39797201110739330d3f153afd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f67082fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:22:57</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>3934e39726201110e89a8c1497fd81d9</update_guid>
+        <update_guid_history>3934e39726201110e89a8c1497fd81d9:-765392025</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 07:37:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>39542d2d406345759e82b53d3f56bd49</sys_id>
+        <sys_metadata>872093ebdb1c9510a3ed1c9705961994</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_last_name</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_872093ebdb1c9510a3ed1c9705961994</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_872093ebdb1c9510a3ed1c9705961994">7934e39797201110739330d3f153afd9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 07:37:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
