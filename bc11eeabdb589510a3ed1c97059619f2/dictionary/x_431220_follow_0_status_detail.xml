@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Status Detail" max_length="40" name="x_431220_follow_0_status_detail" text_index="true" type="collection">
+    <element label="Status Detail" max_length="40" name="x_431220_follow_0_status_detail" sizeclass="27" text_index="true" type="collection">
         <element display="true" label="Label" max_length="40" name="label" type="string"/>
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>

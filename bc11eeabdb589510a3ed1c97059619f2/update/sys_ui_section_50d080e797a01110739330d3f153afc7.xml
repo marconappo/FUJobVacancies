@@ -4,13 +4,13 @@
             <element>no_of_eligible_candidates</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-07-13 09:33:06</sys_created_on>
-            <sys_id>9c020c2b97a01110739330d3f153af9d</sys_id>
+            <sys_created_on>2022-07-13 16:36:01</sys_created_on>
+            <sys_id>5fc2ad2f97281110739330d3f153af0b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Selection" display_value="Selection" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">50d080e797a01110739330d3f153afc7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-13 09:33:06</sys_updated_on>
+            <sys_updated_on>2022-07-13 16:36:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>quota_requested</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-07-13 09:33:06</sys_created_on>
-            <sys_id>90020c2b97a01110739330d3f153af9e</sys_id>
+            <sys_created_on>2022-07-13 16:36:01</sys_created_on>
+            <sys_id>53c2ad2f97281110739330d3f153af0c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Selection" display_value="Selection" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">50d080e797a01110739330d3f153afc7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-13 09:33:06</sys_updated_on>
+            <sys_updated_on>2022-07-13 16:36:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>panel_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-07-13 09:33:06</sys_created_on>
-            <sys_id>94020c2b97a01110739330d3f153af9e</sys_id>
+            <sys_created_on>2022-07-13 16:36:01</sys_created_on>
+            <sys_id>57c2ad2f97281110739330d3f153af0c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Selection" display_value="Selection" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">50d080e797a01110739330d3f153afc7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-13 09:33:06</sys_updated_on>
+            <sys_updated_on>2022-07-13 16:36:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>name_s_of_panel_member_s</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-07-13 09:33:06</sys_created_on>
-            <sys_id>98020c2b97a01110739330d3f153af9e</sys_id>
+            <sys_created_on>2022-07-13 16:36:01</sys_created_on>
+            <sys_id>5bc2ad2f97281110739330d3f153af0c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Selection" display_value="Selection" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">50d080e797a01110739330d3f153afc7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-13 09:33:06</sys_updated_on>
+            <sys_updated_on>2022-07-13 16:36:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,27 @@
             <element>no_of_interviewed_candidates</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-07-13 09:33:06</sys_created_on>
-            <sys_id>9c020c2b97a01110739330d3f153af9e</sys_id>
+            <sys_created_on>2022-07-13 16:36:01</sys_created_on>
+            <sys_id>5fc2ad2f97281110739330d3f153af0c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Selection" display_value="Selection" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">50d080e797a01110739330d3f153afc7</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-13 09:33:06</sys_updated_on>
+            <sys_updated_on>2022-07-13 16:36:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>selected_candidate_s_name</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-13 16:36:01</sys_created_on>
+            <sys_id>53c2ad2f97281110739330d3f153af0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Selection" display_value="Selection" name="x_431220_follow_0_follow_up" sys_domain="global" view="Default view">50d080e797a01110739330d3f153afc7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-13 16:36:01</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -30,12 +30,14 @@
         <element label="PREVIOUS JH" max_length="40" name="previous_jh" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="PUBLICATION NUMBER" max_length="40" name="publication_number" type="string"/>
         <element label="PUBLICATION REQUEST" max_length="40" name="publication_request" type="glide_date"/>
+        <element label="PUBLI. DEADLINES" max_length="40" name="publi_deadlines" type="glide_date"/>
         <element label="QUOTA REQUESTED" max_length="10" name="quota_requested" type="string"/>
+        <element label="SELECTED CANDIDATE'S NAME" max_length="200" name="selected_candidate_s_name" type="string"/>
         <element label="STARTING DATE (confirmed)" max_length="40" name="starting_date_confirmed" type="glide_date"/>
         <element label="STARTING DATE (proposed)" max_length="40" name="starting_date_proposed" type="glide_date"/>
         <element label="STATUS" max_length="40" name="status" type="string"/>
         <element label="STATUS DETAILS" max_length="32" name="status_details" reference="x_431220_follow_0_status_detail" type="reference"/>
-        <element label="SYSPER POST N." max_length="40" name="sysper_post_n" type="string"/>
+        <element label="SYSPER POST NO" max_length="40" name="sysper_post_n" type="string"/>
         <element label="TRANSFER REQUEST DATE" max_length="40" name="transfer_request_date" type="glide_date"/>
         <element label="TYPE of PROCEDURE" max_length="10" name="type_of_procedure" type="string"/>
         <element label="VACANT ON" max_length="40" name="vacant_on" type="glide_date"/>

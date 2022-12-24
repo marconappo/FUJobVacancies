@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Vacancies" max_length="40" name="x_431220_follow_0_vacancies" sizeclass="202" type="collection">
+        <element attributes="encode_utf8=false" label="BACK UP" max_length="32" name="back_up" reference="sys_user" reference_qual="emailLIKEeuropa^EQ" reference_qual_condition="emailLIKEeuropa^EQ" type="reference"/>
+        <element label="BUDGETARY COVER?" max_length="40" name="budgetary_cover" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="BRU" label="City" max_length="10" name="city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DG/OFFICE" max_length="40" name="dg_office" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GRADE (MAX)" max_length="10" name="grade_max" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GRADE (MIN)" max_length="10" name="grade_min" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="HoE Email" max_length="40" name="hoe_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="JOB DESCRIPTION (SYSPER)" max_length="40" name="job_description_sysper" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="JOB TITLE FUNCTION" max_length="40" name="job_title_function" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="NAME(S) of PANEL MEMBER(S)" max_length="50" name="name_s_of_panel_member_s" type="string"/>
+        <element choice="3" choice_field="no_of_eligible_candidates" choice_table="x_431220_follow_0_follow_up" default="3" label="NO. of ELIGIBLE CANDIDATES" max_length="40" name="no_of_eligible_candidates" type="integer">
+            <choice/>
+        </element>
+        <element label="NO. of INTERVIEWED CANDIDATES" max_length="40" name="no_of_interviewed_candidates" type="integer"/>
+        <element choice="1" choice_field="open_to_vacancy_notice" choice_table="x_431220_follow_0_follow_up" label="Open To (Vacancy Notice)" max_length="40" name="open_to_vacancy_notice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="other Institutions" sequence="0" value="other Institutions"/>
+                <element inactive_on_update="false" label="EPSO list" sequence="1" value="EPSO list"/>
+            </choice>
+        </element>
+        <element label="Panel Date" max_length="40" name="panel_date" type="string"/>
+        <element attributes="encode_utf8=false" label="POST FUNCTION GROUP" max_length="32" name="post_function_group" reference="x_431220_follow_0_function_group" type="reference"/>
+        <element attributes="encode_utf8=false" label="POST TYPE" max_length="32" name="post_type" reference="x_431220_follow_0_post_type" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="PREVIOUS JH" max_length="40" name="previous_jh" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PUBLICATION NUMBER" max_length="40" name="publication_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PUBLICATION REQUEST" max_length="40" name="publication_request" type="glide_date"/>
+        <element label="PUBLI. DEADLINES" max_length="50" name="publi_deadlines" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="QUOTA REQUESTED" max_length="10" name="quota_requested" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SELECTED CANDIDATE'S NAME" max_length="200" name="selected_candidate_s_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="STARTING DATE (confirmed)" max_length="40" name="starting_date_confirmed" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="STARTING DATE (proposed)" max_length="40" name="starting_date_proposed" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="STATUS" max_length="40" name="status" type="string"/>
+        <element attributes="encode_utf8=false" label="STATUS DETAILS" max_length="32" name="status_details" reference="x_431220_follow_0_status_detail" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="TRANSFER REQUEST DATE" max_length="40" name="transfer_request_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="TYPE of PROCEDURE" max_length="10" name="type_of_procedure" type="string"/>
+        <element label="Unit" max_length="32" name="unit" reference="x_431220_follow_0_unit" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="VACANT ON" max_length="40" name="vacant_on" type="glide_date"/>
+    </element>
+</database>

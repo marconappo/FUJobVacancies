@@ -12,10 +12,10 @@
         <map_page/>
         <mobile_title>By function group</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_431220_follow_0_follow_up</name>
+        <name>x_431220_follow_0_vacancies</name>
         <order>3</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>sysparm_query=GROUPBYfile_handler</query>
+        <query>sysparm_query=GROUPBYassigned_to</query>
         <report/>
         <roles>x_431220_follow_0.fu_job_vacancies_file_handler</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +24,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>49578b63db1c9510a3ed1c97059619cb</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>by file handler</sys_name>
         <sys_overrides/>
         <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
@@ -32,11 +32,11 @@
         <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
         <sys_update_name>sys_app_module_49578b63db1c9510a3ed1c97059619cb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-13 09:47:00</sys_updated_on>
+        <sys_updated_on>2022-07-13 22:19:06</sys_updated_on>
         <timeline_page/>
         <title>by file handler</title>
         <uncancelable>false</uncancelable>
-        <view_name>default</view_name>
+        <view_name>byFileHandler</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

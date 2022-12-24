@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_431220_follow_0_vacancies" version="2" view="byfilehandler">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_431220_follow_0_vacancies" element="NULL" name="x_431220_follow_0_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="9be32d6f97281110739330d3f153af33">36af4fab97ec1110739330d3f153afe0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_id>beaf4fab97ec1110739330d3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>unit</element>
+            <list_id display_value="x_431220_follow_0_vacancies" element="NULL" name="x_431220_follow_0_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="9be32d6f97281110739330d3f153af33">36af4fab97ec1110739330d3f153afe0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_id>32af4fab97ec1110739330d3f153afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>previous_jh</element>
+            <list_id display_value="x_431220_follow_0_vacancies" element="NULL" name="x_431220_follow_0_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="9be32d6f97281110739330d3f153af33">36af4fab97ec1110739330d3f153afe0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_id>b2af4fab97ec1110739330d3f153afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status_details</element>
+            <list_id display_value="x_431220_follow_0_vacancies" element="NULL" name="x_431220_follow_0_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="9be32d6f97281110739330d3f153af33">36af4fab97ec1110739330d3f153afe0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_id>36af4fab97ec1110739330d3f153afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>publication_number</element>
+            <list_id display_value="x_431220_follow_0_vacancies" element="NULL" name="x_431220_follow_0_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="9be32d6f97281110739330d3f153af33">36af4fab97ec1110739330d3f153afe0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_id>b6af4fab97ec1110739330d3f153afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>publi_deadlines</element>
+            <list_id display_value="x_431220_follow_0_vacancies" element="NULL" name="x_431220_follow_0_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="9be32d6f97281110739330d3f153af33">36af4fab97ec1110739330d3f153afe0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_id>3aaf4fab97ec1110739330d3f153afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_431220_follow_0_vacancies" element="NULL" name="x_431220_follow_0_vacancies" parent="NULL" relationship="NULL" sys_domain="global" view="9be32d6f97281110739330d3f153af33">36af4fab97ec1110739330d3f153afe0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_id>baaf4fab97ec1110739330d3f153afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_431220_follow_0_vacancies</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-14 00:31:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36af4fab97ec1110739330d3f153afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_431220_follow_0_vacancies</sys_name>
+            <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+            <sys_update_name>sys_ui_list_x_431220_follow_0_vacancies_byfilehandler</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-14 00:31:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="byFileHandler" name="byfilehandler">9be32d6f97281110739330d3f153af33</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

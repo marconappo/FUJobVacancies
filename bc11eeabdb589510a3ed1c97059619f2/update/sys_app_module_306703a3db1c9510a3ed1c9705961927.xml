@@ -4,7 +4,9 @@
         <application display_value="Vacancies">e9537a6fdb989510a3ed1c970596198c</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="x_431220_follow_0_vacancies">starting_date_confirmedISNOTEMPTY^EQ<item endquery="false" field="starting_date_confirmed" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
@@ -12,10 +14,10 @@
         <map_page/>
         <mobile_title>By function group</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_431220_follow_0_follow_up</name>
+        <name>x_431220_follow_0_vacancies</name>
         <order>6</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>sysparm_query=GROUPBYstarting_date_confirmed</query>
         <report/>
         <roles>x_431220_follow_0.fu_job_vacancies_file_handler</roles>
         <sys_class_name>sys_app_module</sys_class_name>
@@ -24,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>306703a3db1c9510a3ed1c9705961927</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>entry info service</sys_name>
         <sys_overrides/>
         <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
@@ -32,11 +34,11 @@
         <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
         <sys_update_name>sys_app_module_306703a3db1c9510a3ed1c9705961927</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-13 10:00:09</sys_updated_on>
+        <sys_updated_on>2022-07-14 00:51:37</sys_updated_on>
         <timeline_page/>
         <title>entry info service</title>
         <uncancelable>false</uncancelable>
-        <view_name/>
+        <view_name>entryIntoService</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>

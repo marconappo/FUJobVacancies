@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="sysper_post_n" label="SYSPER POST N." language="en" table="x_431220_follow_0_follow_up">
+    <sys_documentation element="sysper_post_n" label="SYSPER POST NO" language="en" table="x_431220_follow_0_follow_up">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>sysper_post_n</element>
             <help/>
             <hint/>
-            <label>SYSPER POST N.</label>
+            <label>SYSPER POST NO</label>
             <language>en</language>
             <name>x_431220_follow_0_follow_up</name>
-            <plural/>
+            <plural>SYSPER POST NOs</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2022-07-01 11:29:14</sys_created_on>
-            <sys_id>1c89eae3db989510a3ed1c97059619dc</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_name>SYSPER POST N.</sys_name>
-            <sys_package display_value="Follow up Job Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+            <sys_id>1d14e35797201110739330d3f153af60</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_name>SYSPER POST NO</sys_name>
+            <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Follow up Job Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+            <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
             <sys_update_name>sys_documentation_x_431220_follow_0_follow_up_sysper_post_n_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-01 11:29:16</sys_updated_on>
+            <sys_updated_on>2022-07-13 21:57:32</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

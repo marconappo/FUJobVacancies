@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Vacancies follow up - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="vacancies">2bde1e27972c1110739330d3f153afcd</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 20:59:48</sys_created_on>
+        <sys_id>1b2fdeef97e81110739330d3f153afaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vacancies follow up - Container 1</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sp_container_1b2fdeef97e81110739330d3f153afaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 20:59:48</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

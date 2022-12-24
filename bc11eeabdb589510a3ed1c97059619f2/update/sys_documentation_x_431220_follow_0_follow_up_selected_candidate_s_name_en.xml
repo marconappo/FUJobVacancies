@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="selected_candidate_s_name" label="SELECTED CANDIDATE'S NAME" language="en" table="x_431220_follow_0_follow_up">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>selected_candidate_s_name</element>
+            <help/>
+            <hint/>
+            <label>SELECTED CANDIDATE'S NAME</label>
+            <language>en</language>
+            <name>x_431220_follow_0_follow_up</name>
+            <plural>SELECTED CANDIDATE'S NAMEs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-13 16:33:17</sys_created_on>
+            <sys_id>9f22612f97281110739330d3f153af7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>SELECTED CANDIDATE'S NAME</sys_name>
+            <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+            <sys_update_name>sys_documentation_x_431220_follow_0_follow_up_selected_candidate_s_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-13 16:33:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

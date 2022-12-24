@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="DELETE">
+        <before>false</before>
+        <description/>
+        <name>Copy Follow up to a new extending task</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[copyTable('x_431220_follow_0_follow_up', 'x_431220_follow_0_vacancies', 'task');
+function copyTable(originalTable, newTable, extendTable) {
+        var gr = new GlideRecord(originalTable);
+        gr.initialize();
+        var td = GlideTableDescriptor.get(originalTable);
+        var displayName = td.getDisplayName();
+        var tLabel = gr.getLabel();
+        var creator = new TableDescriptor(newTable, tLabel);
+          if (extendTable) {
+                creator.setExtends(extendTable);
+          }
+        creator.setFields(gr);
+        creator.copyAttributes(td);
+        creator.setRoles(td);
+        creator.create();
+        creator.copyIndexes(originalTable, newTable);
+}]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 21:40:31</sys_created_on>
+        <sys_id>04e76e2f972c1110739330d3f153af85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy Follow up to a new extending task</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_script_fix_04e76e2f972c1110739330d3f153af85</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 21:40:31</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_script_fix_04e76e2f972c1110739330d3f153af85</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;name&gt;Copy Follow up to a new extending task&lt;/name&gt;&lt;record_for_rollback&gt;true&lt;/record_for_rollback&gt;&lt;script&gt;&lt;![CDATA[copyTable('x_431220_follow_0_follow_up', 'x_431220_follow_0_vacancies', 'task');
+function copyTable(originalTable, newTable, extendTable) {
+        var gr = new GlideRecord(originalTable);
+        gr.initialize();
+        var td = GlideTableDescriptor.get(originalTable);
+        var displayName = td.getDisplayName();
+        var tLabel = gr.getLabel();
+        var creator = new TableDescriptor(newTable, tLabel);
+          if (extendTable) {
+                creator.setExtends(extendTable);
+          }
+        creator.setFields(gr);
+        creator.copyAttributes(td);
+        creator.setRoles(td);
+        creator.create();
+        creator.copyIndexes(originalTable, newTable);
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-07-13 21:40:31&lt;/sys_created_on&gt;&lt;sys_id&gt;04e76e2f972c1110739330d3f153af85&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Copy Follow up to a new extending task&lt;/sys_name&gt;&lt;sys_package display_value="Vacancies" source="x_431220_follow_0"&gt;bc11eeabdb589510a3ed1c97059619f2&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vacancies"&gt;bc11eeabdb589510a3ed1c97059619f2&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_04e76e2f972c1110739330d3f153af85&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-07-13 21:40:31&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1364434651</payload_hash>
+        <record_name>Copy Follow up to a new extending task</record_name>
+        <reverted_from/>
+        <source>df446b9797201110739330d3f153af93</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 21:40:31</sys_created_on>
+        <sys_id>fb78ae6f972c1110739330d3f153afc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f981a35e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 21:40:31</sys_updated_on>
+        <type>Fix Script</type>
+        <update_guid>3778ae6f702c1110a536ee58fd0b28c9</update_guid>
+        <update_guid_history>3778ae6f702c1110a536ee58fd0b28c9:-1364434651</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 21:41:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_fix">sys_script_fix</sys_db_object>
+        <sys_id>5b9bf2ec723b4cdf81595eae756e6711</sys_id>
+        <sys_metadata>04e76e2f972c1110739330d3f153af85</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy Follow up to a new extending task</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_script_fix_04e76e2f972c1110739330d3f153af85</sys_update_name>
+        <sys_update_version display_value="sys_script_fix_04e76e2f972c1110739330d3f153af85">fb78ae6f972c1110739330d3f153afc9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 21:41:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

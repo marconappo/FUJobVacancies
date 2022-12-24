@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="DELETE">
+        <before>false</before>
+        <description/>
+        <name>Make Follow Up Vacancies extend Task</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[var table = 'x_431220_follow_0_follow_up'; //table you want to extend
+var old_parent = '';
+var new_parent = 'task'; //the table you want to extend to, like cmdb_ci or task
+var changer = new GlideTableParentChange(table);
+changer.change(old_parent, new_parent);]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 21:28:55</sys_created_on>
+        <sys_id>3b7566eb972c1110739330d3f153aff6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Make Follow Up Vacancies extend Task</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_update_name>sys_script_fix_3b7566eb972c1110739330d3f153aff6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 21:29:08</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</application>
+        <file_path/>
+        <instance_id>dadf3c33dbd589109a4dcac505961951</instance_id>
+        <instance_name>dev124334</instance_name>
+        <name>sys_script_fix_3b7566eb972c1110739330d3f153aff6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;name&gt;Make Follow Up Vacancies extend Task&lt;/name&gt;&lt;record_for_rollback&gt;true&lt;/record_for_rollback&gt;&lt;script&gt;&lt;![CDATA[var table = 'x_431220_follow_0_follow_up'; //table you want to extend
+var old_parent = '';
+var new_parent = 'task'; //the table you want to extend to, like cmdb_ci or task
+var changer = new GlideTableParentChange(table);
+changer.change(old_parent, new_parent);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-07-13 21:28:55&lt;/sys_created_on&gt;&lt;sys_id&gt;3b7566eb972c1110739330d3f153aff6&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Make Follow Up Vacancies extend Task&lt;/sys_name&gt;&lt;sys_package display_value="Vacancies" source="x_431220_follow_0"&gt;bc11eeabdb589510a3ed1c97059619f2&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Vacancies"&gt;bc11eeabdb589510a3ed1c97059619f2&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_3b7566eb972c1110739330d3f153aff6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-07-13 21:29:08&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>863518179</payload_hash>
+        <record_name>Make Follow Up Vacancies extend Task</record_name>
+        <reverted_from/>
+        <source>df446b9797201110739330d3f153af93</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 21:29:08</sys_created_on>
+        <sys_id>0de5a6eb972c1110739330d3f153afb5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f977365b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 21:29:08</sys_updated_on>
+        <type>Fix Script</type>
+        <update_guid>05e5a6eb442c11103c4bd28502a8b0b5</update_guid>
+        <update_guid_history>05e5a6eb442c11103c4bd28502a8b0b5:863518179,f9d52eab002c111038330772fb74c3df:-1675000895</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 21:30:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_fix">sys_script_fix</sys_db_object>
+        <sys_id>3aaed47475e347f893f7a23299c2aa04</sys_id>
+        <sys_metadata>3b7566eb972c1110739330d3f153aff6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make Follow Up Vacancies extend Task</sys_name>
+        <sys_package display_value="Vacancies" source="x_431220_follow_0">bc11eeabdb589510a3ed1c97059619f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Vacancies">bc11eeabdb589510a3ed1c97059619f2</sys_scope>
+        <sys_scope_delete display_value="">0064bfa628ef4ecc804b4b1b3c8dd111</sys_scope_delete>
+        <sys_update_name>sys_script_fix_3b7566eb972c1110739330d3f153aff6</sys_update_name>
+        <sys_update_version display_value="sys_script_fix_3b7566eb972c1110739330d3f153aff6">0de5a6eb972c1110739330d3f153afb5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 21:30:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
